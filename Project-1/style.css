@@ -141,8 +141,6 @@ main {
 .content {
     display: flex;
     flex-direction: column;
-    align-items: center;
-
     gap: 5px;
 }
 .channel-name {
@@ -155,7 +153,3 @@ main {
     gap: 10px;
 }
   
-.dots {
-    display: flex;
-    align-items: center;
-}
