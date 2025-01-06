@@ -110,7 +110,10 @@ aside {
     margin-top: 20px;
 }
 
-
 .main-container {
     width: 100%;
+}
+
+main {
+    background: rgb(240, 238, 238);
 }
