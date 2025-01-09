@@ -27,6 +27,7 @@ nav {
     font-size: 20px;
     font-weight: bold;
     text-transform: capitalize;
+    cursor: pointer;
 }
 .navbar-content ul {
     list-style: none;
@@ -100,6 +101,7 @@ nav {
 }
 .section1-content p {
     margin-top: 10px;
+    line-height: 1.6;
 }
 
 .section2 .pimg1 p {
@@ -126,6 +128,7 @@ nav {
 }
 .section2-content p {
     margin-top: 10px;
+    line-height: 1.6;
 }
 
 .section3 .pimg1 p {
@@ -152,4 +155,5 @@ nav {
 }
 .section3-content p {
     margin-top: 10px;
+    line-height: 1.6;
 }
